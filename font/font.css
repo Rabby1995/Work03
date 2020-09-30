@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+@font-face{
+	font-family:"Lobster";
+	src:url("../font/Lobster1.4.eot") format("eot"),
+	url("../font/Lobster1.4.woff") format("woff"),
+	url("../font/Lobster1.4.ttf") format("truetype"),
+	url("../font/Lobster1.4.svg#Lobster1.4") format("svg");
+}
+/*
+font-family: 'Open Sans', sans-serif;
+*/
